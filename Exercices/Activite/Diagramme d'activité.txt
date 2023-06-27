@@ -1,0 +1,26 @@
+				Diagramme d'activité 
+
+Pour le projet Fil rouge, il faut représenter toutes les fonctionnalités du site internet (obligatoire) et à inserer dans le cahier des charges.
+
+Voici le dépôt Github : https://github.com/mithridatem/uml_ex
+
+Le diagramme d'activité est le deuxième plus important (après l'usercase), il nous permet de décrire une fonctionnalité (coté serveur et coté utilisateurs) étape par étape (vérifier, valider).
+
+Découper une fonctionnalité et décrire l'algo qui l'a réaliserai 
+Avant de coder on  va réflechir a toutes les méthodes pour réaliser la fonctionnalité et les représenter dans ce diagramme la étape par étape(algo,seveur web,utilisateurs).
+
+On le débute toujours par le point(départ) c'est la fonctionnalité 
+ensuite on as l'élement qui va déclancher la fonction
+et on va après décomposer toute les actions pour résoudre ceci 
+niveau utilisateurs : ce sont uniquement les actions qu'il peut effectuer 
+
+Vérification , test et autre = vérification d'algo.
+
+Un programme se termine toujours par la dernière action de l'algo.
+ 
+Les actions qui ne sont pas le but de cette fonctionnalités on les termine du coup par le cercle avec la croix.
+
+On y retrouve sous form de schéma l'algo car il y a sous forme de symboles if, else if, else.
+
+A quoi sert les flèches de généralization
+Pensez à noter le vocabulaire technique dans la fiche jointe.

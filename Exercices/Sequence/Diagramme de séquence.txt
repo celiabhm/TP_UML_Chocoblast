@@ -1,0 +1,23 @@
+				Diagramme de séquence 
+
+
+Version avec bdd : Version avec la base de données (actions).
+
+Plutot que d'avoir comme dans le diagramme d'activité chacune des actions/des étapes, on va retrouver sa chronologique 
+Les étapes suivantes se réalise que si celle d'avant est achevée.
+
+Flèche message = attend une chose en retour 
+
+Toujours faire vérifier que les champs soit bien remplis en fonction de ce que on attend à ce moment la(confirme ou pas).
+
+Les scnérios qui peuvent poser problème on les représente à la fin du diagramme séparer de celui-ci (en dessous dans des cadres) avec les numéros d'actions car chaque actions peut rencontrer un soucis .
+Soit : 
+-> Scénario d'erreur + fin du scénario 
+-> Scénario alternatif : erreur + recommencement.
+
+Message : 
+Async message : 
+Reply message : 
+Self message : 
+Lifeline : 
+Diagramme de séquence : 
